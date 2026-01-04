@@ -100,6 +100,7 @@
 		<item href="images/logo.svg" id="logo.svg" media-type="image/svg+xml"/>
 		<item href="images/titlepage.svg" id="titlepage.svg" media-type="image/svg+xml"/>
 		<item href="text/colophon.xhtml" id="colophon.xhtml" media-type="application/xhtml+xml" properties="svg"/>
+		<item href="text/horseshoes.xhtml" id="horseshoes.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/imprint.xhtml" id="imprint.xhtml" media-type="application/xhtml+xml" properties="svg"/>
 		<item href="text/my-roomy.xhtml" id="my-roomy.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/sick-em.xhtml" id="sick-em.xhtml" media-type="application/xhtml+xml"/>
@@ -112,6 +113,7 @@
 		<itemref idref="imprint.xhtml"/>
 		<itemref idref="my-roomy.xhtml"/>
 		<itemref idref="sick-em.xhtml"/>
+		<itemref idref="horseshoes.xhtml"/>
 		<itemref idref="colophon.xhtml"/>
 		<itemref idref="uncopyright.xhtml"/>
 	</spine>
