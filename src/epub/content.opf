@@ -51,10 +51,14 @@
 		<dc:source>https://archive.org/details/sim_saturday-evening-post_1914-07-25_187_4</dc:source>
 		<!-- Back to Baltimore: Page 29 -->
 		<dc:source>https://archive.org/details/sim_redbook_1914-11_24</dc:source>
-		<!-- Phil and His 3d: v.2, Page 30 -->
+		<!-- Phil and His 4d: v.2, Page 30 -->
 		<dc:source>https://catalog.hathitrust.org/Record/003111120</dc:source>
+		<!-- Tour No. 2, chapter 1: Page 16 -->
+		<dc:source>https://archive.org/details/sim_saturday-evening-post_1915-02-13_187_33</dc:source>
+		<!-- Tour No. 2, chapter 2: Page 21 -->
+		<dc:source>https://archive.org/details/sim_saturday-evening-post_1915-02-20_187_34</dc:source>
 		<!-- Manual Transcriptions -->
-		<!-- Sick ’Em, Back to Baltimore, Phil and His 4d -->
+		<!-- Sick ’Em, Back to Baltimore, Phil and His 4d, Tour No. 2 -->
 		<dc:source>https://github.com/homestar92/ring-lardner-transcriptions</dc:source>
 		<meta property="se:production-notes">PRODUCTION_NOTES</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
