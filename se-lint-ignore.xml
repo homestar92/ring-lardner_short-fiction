@@ -9,5 +9,13 @@
 			<code>t-015</code>
 			<reason>This story is written in an idiosyncratic style so typographic choices should be assumed as deliberate and changing them could alter the character's "voice"</reason>
 		</ignore>
+		<ignore>
+			<code>t-029</code>
+			<reason>This story is written in an idiosyncratic style. Lowercase letters start sentences and paragraphs intentionally</reason>
+		</ignore>
+		<ignore>
+			<code>t-057</code>
+			<reason>This story is written in an idiosyncratic style. Lowercase letters start sentences and paragraphs intentionally</reason>
+		</ignore>
 	</file>
 </se-lint-ignore>
