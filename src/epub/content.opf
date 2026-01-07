@@ -39,7 +39,7 @@
 		<meta property="se:subject">Fiction</meta>
 		<meta property="se:subject">Satire</meta>
 		<meta property="se:subject">Shorts</meta>
-		<dc:description id="description">A collection of short stories by Ring Lardner</dc:description>
+		<dc:description id="description">A collection of short stories by Ring Lardner.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			LONG_DESCRIPTION
 		</meta>
@@ -97,8 +97,8 @@
 		<meta property="role" refines="#producer-1" scheme="marc:relators">cov</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">pfr</meta>
-		<meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">trc</meta>
+		<meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
 	</metadata>
 	<manifest>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
