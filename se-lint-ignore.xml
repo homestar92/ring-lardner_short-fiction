@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<se-lint-ignore>
+	<file path="tour-no-2.xhtml">
+		<ignore>
+			<code>t-010</code>
+			<reason>This story is written in an idiosyncratic style so typographic choices should be assumed as deliberate and changing them could alter the character's "voice"</reason>
+		</ignore>
+		<ignore>
+			<code>t-015</code>
+			<reason>This story is written in an idiosyncratic style so typographic choices should be assumed as deliberate and changing them could alter the character's "voice"</reason>
+		</ignore>
+	</file>
+</se-lint-ignore>
