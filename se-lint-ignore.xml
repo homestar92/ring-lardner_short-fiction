@@ -10,12 +10,12 @@
 			<reason>This story is written in an idiosyncratic style. Lowercase letters start sentences and paragraphs intentionally</reason>
 		</ignore>
 		<ignore>
-			<code>t-057</code>
-			<reason>This story is written in an idiosyncratic style. Lowercase letters start sentences and paragraphs intentionally</reason>
-		</ignore>
-		<ignore>
 			<code>t-030</code>
 			<reason>This story is written in an idiosyncratic style by a barely literate narrator. The incorrectly formatted initialisms are intentional</reason>
+		</ignore>
+		<ignore>
+			<code>t-057</code>
+			<reason>This story is written in an idiosyncratic style. Lowercase letters start sentences and paragraphs intentionally</reason>
 		</ignore>
 		<ignore>
 			<code>t-064</code>
