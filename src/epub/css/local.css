@@ -51,7 +51,7 @@ div[epub|type~="z3998:letter"]{
 	display: none;
 }
 
-[epub|type~="z3998:song"] p + p
+[epub|type~="z3998:song"] p + p,
 [epub|type~="z3998:poem"] p + p{
 	margin-top: 1em;
 }
