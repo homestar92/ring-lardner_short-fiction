@@ -30,6 +30,8 @@ p[epub|type~="z3998:salutation"]{
 div[epub|type~="z3998:letter"]{
 	margin: 1em 0;
 }
+
+.telegram{ font-variant: all-small-caps; }
 /* end letters */
 
 /* poetry, songs */
