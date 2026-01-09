@@ -57,8 +57,10 @@
 		<dc:source>https://archive.org/details/sim_saturday-evening-post_1915-02-13_187_33</dc:source>
 		<!-- Tour No. 2, chapter 2: Page 21 -->
 		<dc:source>https://archive.org/details/sim_saturday-evening-post_1915-02-20_187_34</dc:source>
+		<!-- The Poor Simp: Page 16 -->
+		<dc:source>https://archive.org/details/sim_saturday-evening-post_1915-09-11_188_11</dc:source>
 		<!-- Manual Transcriptions -->
-		<!-- Sick ’Em, Back to Baltimore, Phil and His 4d, Tour No. 2 -->
+		<!-- Sick ’Em, Back to Baltimore, Phil and His 4d, Tour No. 2, The Poor Simp -->
 		<dc:source>https://github.com/homestar92/ring-lardner-transcriptions</dc:source>
 		<meta property="se:production-notes">PRODUCTION_NOTES</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
