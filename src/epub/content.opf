@@ -66,8 +66,10 @@
 		<dc:source>https://archive.org/details/sim_saturday-evening-post_1915-10-23_188_17</dc:source>
 		<!-- Oh, You Bonehead!: Page 16 -->
 		<dc:source>https://archive.org/details/sim_saturday-evening-post_1915-10-30_188_18</dc:source>
+		<!-- Good for the Soul: Page 20 -->
+		<dc:source>https://archive.org/details/sim_saturday-evening-post_1916-03-25_188_39</dc:source>
 		<!-- Manual Transcriptions -->
-		<!-- Sick ’Em, Back to Baltimore, Phil and His 4d, Tour No. 2, The Poor Simp, Where Do You Get That Noise?, Oh You Bonehead! -->
+		<!-- Sick ’Em, Back to Baltimore, Phil and His 4d, Tour No. 2, The Poor Simp, Where Do You Get That Noise?, Oh You Bonehead!, Good for the Soul -->
 		<dc:source>https://github.com/homestar92/ring-lardner-transcriptions</dc:source>
 		<meta property="se:production-notes">PRODUCTION_NOTES</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
