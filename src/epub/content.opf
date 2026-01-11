@@ -130,6 +130,7 @@
 		<item href="text/oh-you-bonehead.xhtml" id="oh-you-bonehead.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/phil-and-his-4d.xhtml" id="phil-and-his-4d.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/sick-em.xhtml" id="sick-em.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-crook.xhtml" id="the-crook.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-poor-simp.xhtml" id="the-poor-simp.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/three-kings-and-a-pair.xhtml" id="three-kings-and-a-pair.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/titlepage.xhtml" id="titlepage.xhtml" media-type="application/xhtml+xml" properties="svg"/>
@@ -155,6 +156,7 @@
 		<itemref idref="carmen.xhtml"/>
 		<itemref idref="three-kings-and-a-pair.xhtml"/>
 		<itemref idref="good-for-the-soul.xhtml"/>
+		<itemref idref="the-crook.xhtml"/>
 		<itemref idref="colophon.xhtml"/>
 		<itemref idref="uncopyright.xhtml"/>
 	</spine>
