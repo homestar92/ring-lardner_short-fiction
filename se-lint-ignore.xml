@@ -26,4 +26,10 @@
 			<reason>This story is written in an idiosyncratic style by a barely literate narrator. The single letters here are not graphemes or phonemes, just intentionally bad grammar.</reason>
 		</ignore>
 	</file>
+	<file path="champion.xhtml">
+		<ignore>
+			<code>t-029</code>
+			<reason>This letter is written in an idiosyncratic style. Lowercase letters start sentences intentionally.</reason>
+		</ignore>
+	</file>
 </se-lint-ignore>
