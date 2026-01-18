@@ -1,5 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <se-lint-ignore>
+	<file path="champion.xhtml">
+		<ignore>
+			<code>t-029</code>
+			<reason>This letter is written in an idiosyncratic style. Lowercase letters start sentences intentionally.</reason>
+		</ignore>
+	</file>
 	<file path="tour-no-2.xhtml">
 		<ignore>
 			<code>t-010</code>
@@ -24,12 +30,6 @@
 		<ignore>
 			<code>y-035</code>
 			<reason>This story is written in an idiosyncratic style by a barely literate narrator. The single letters here are not graphemes or phonemes, just intentionally bad grammar.</reason>
-		</ignore>
-	</file>
-	<file path="champion.xhtml">
-		<ignore>
-			<code>t-029</code>
-			<reason>This letter is written in an idiosyncratic style. Lowercase letters start sentences intentionally.</reason>
 		</ignore>
 	</file>
 </se-lint-ignore>
